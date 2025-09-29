@@ -32,10 +32,10 @@ chmod +x *.sh
 
 **Quick Reference:**
 ```bash
-water-reminder start    # ▶️  Start reminders
-water-reminder stop     # ⏹️  Stop reminders  
-water-reminder status   # 📊 Check status
-water-reminder config   # ⚙️  Configure
-water-reminder test     # 🧪 Test notification
-water-reminder help     # ❓ Show help
+./water-control.sh start    # ▶️  Start reminders
+./water-control.sh stop     # ⏹️  Stop reminders  
+./water-control.sh status   # 📊 Check status
+./water-control.sh config   # ⚙️  Configure
+./water-control.sh test     # 🧪 Test notification
+./water-control.sh help     # ❓ Show help
 ```
